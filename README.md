@@ -1,1 +1,1 @@
-C++ project only
+C++ projects only
