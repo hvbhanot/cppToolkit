@@ -1,1 +1,2 @@
-C++ projects only
+Text based game coded in C++
+
